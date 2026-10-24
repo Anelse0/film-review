@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: ep04-campfire-approved
+expected_outcome: |
+  用户看过成片后把这条定为本项目的正面样例（2026-10-09：只满意这条和 s02-clip01 的导演设计）。好的审阅应当认出它基本成立：没有致命问题，重要级意见很少，不建议删掉开场前景虚化的篝火、贝壳特写、火星换气镜、背面横移留白这些环境 / 物件镜。
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.pyc
+# 用户项目产物不入库：回测用例的输入文件取自 Offset 的剧本、分镜卡与导演偏好
+/evals/*/files/

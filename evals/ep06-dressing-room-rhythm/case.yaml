@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: ep06-dressing-room-rhythm
+expected_outcome: |
+  用户看这一版时说“整整 7s 无台词”（此前一版说过“节奏太拖”）；这一版生成的成片里，被拆到下一镜画外的后半句 “The black one.” 由画内的听者 Theo 开口说了，用户说“你的反打设计有问题”。好的审阅应当指出换衣那几段连续无台词太长、缺少功能或能叠进台词；并把“句子说到一半切到听者、后半句画外落在听者镜头上”和导演偏好 v1.19“谁说台词就给谁镜头和焦点”的冲突摆出来交用户定。
+context:
+  scaffold_script: place-files.sh

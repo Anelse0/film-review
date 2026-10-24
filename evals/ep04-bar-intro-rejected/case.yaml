@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: ep04-bar-intro-rejected
+expected_outcome: |
+  用户看过成片后判这条的镜头设计、台词设计、面部表情都不行（2026-10-09），随后定下的偏好里点名了这条：十镜九固定、镜 7 随转头推到大特写、镜 3 和镜 10 用中近景交代三人、镜 4–9 一路表情特写。好的审阅应当在不知道这些偏好的情况下，凭专业标准指出其中大部分，并且不给“通过”。
+context:
+  scaffold_script: place-files.sh

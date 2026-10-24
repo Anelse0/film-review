@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: ep04-apartment-approved
+expected_outcome: |
+  用户看过成片后把这条定为本项目的正面样例（2026-10-09）。好的审阅应当认出它基本成立：没有致命问题，重要级意见很少，不建议删掉皮鞋、领结挂上沙发扶手、茶几这些物件镜。
+context:
+  scaffold_script: place-files.sh
